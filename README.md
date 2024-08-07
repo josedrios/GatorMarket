@@ -20,6 +20,6 @@ URL: http://ec2-18-224-202-27.us-east-2.compute.amazonaws.com/
 | Rene Antoun  |rantoun@sfsu.edu|  reneantoun    |
 | Maxwell Lewis    |   mlewis13@mail.sfsu.edu            |  Unagi6               |
 |Javi Buenrostro|jbuenrostro@mail.sfsu.edu|Fiy0x0|
-| Jose Rios      |jrios7@sfsu.edu               |       josederios          |
+| Jose Rios      |jrios7@sfsu.edu               |       josedrios          |
 
 ## NO code needs to be stored in the root of your repository. You may rename the application folder if you like to your team's application name. But all source code related to your team's application should be stored inside the application folder.
